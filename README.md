@@ -38,7 +38,7 @@
 ## Overview
 
 ![screenshot](https://github.com/tivivek/my-team-page-challenge/blob/main/demo/Screenshot%20from%202023-09-26%2021-42-23.png)
-![screenshot]()
+![screenshot](https://github.com/tivivek/my-team-page-challenge/blob/main/demo/Screenshot%20from%202023-09-26%2021-51-06.png)
 
 ### Built With
 
